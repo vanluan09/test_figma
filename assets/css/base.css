@@ -1,0 +1,27 @@
+:root {
+    --white-color :#fff;
+    --black-color:#000;
+    --primary-color:#3C64B1;
+    --primary-color-hover:rgba(60, 100, 177, 0.7);
+    --primary-color-active:rgba(60, 100, 177, 0.5);
+    --text1-color:#373F41;
+    --text2-color:#737B7D;
+    --height-header:86px;
+    
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Mulish', sans-serif;
+    box-sizing: border-box;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1.4rem;
+}
